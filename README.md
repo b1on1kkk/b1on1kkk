@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">Fontend & Backend Developer Based In Belarus</h3>
+<h3 align="center">Fontend & Backend Developer From Belarus</h3>
 
 # 💫 About Me:
 🔭 I’m currently learning: Algorithms<br>💬 Ask me about: React TS/JS<br>⚡ Fun fact: Love cycling and crazy about cars!
