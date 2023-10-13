@@ -2,7 +2,7 @@
 <h3 align="center">Fontend & Backend Developer From Belarus</h3>
 
 # 💫 About Me:
-🔭 I’m currently learning: Algorithms<br>⚡ Fun fact: Love cycling and crazy about cars!
+🔭 I’m currently learning: NodeJS + Typescript <br>⚡ Fun fact: Love cycling and obsessed with cars!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/b1on1kkk) 
