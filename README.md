@@ -10,7 +10,7 @@
 # 💻 Tech Stack:
 
 ```javascript
-  const anmol = {
+  const b1on1kkk = {
       pronouns: "He" | "Him",
       code: ["Javascript", "Typescript", "HTML", "CSS"],
       tools: ["React", "Redux", "Node"],
