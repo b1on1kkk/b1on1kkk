@@ -14,7 +14,7 @@
       pronouns: "He" | "Him",
       code: ["Javascript", "Typescript", "HTML", "CSS"],
       tools: ["React", "Redux", "Node"],
-      askMeAbout: ["web dev", "tech", "app dev", "cars", "algorithms"],
+      askMeAbout: ["web dev", "tech", "app dev", "cars ¯\_(ツ)_/¯", "algorithms"],
       technologies: {
           backEnd: {
               js: ["Node", "Fastify", "Express"],
