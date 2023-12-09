@@ -17,7 +17,7 @@
       askMeAbout: ["web dev", "tech", "app dev", "cars ¯\_(ツ)_/¯", "algorithms"],
       technologies: {
           backEnd: {
-              js: ["Node", "Fastify", "Express"],
+              js: ["Node", "Express"],
           },
           databases: ["MySql"],
       },
