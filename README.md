@@ -11,15 +11,16 @@
 
 ```javascript
   const b1on1kkk = {
-      pronouns: "He" | "Him",
-      code: ["Javascript", "Typescript", "HTML", "CSS"],
-      tools: ["React", "Redux", "Node"],
+      languages: ["Javascript", "Typescript", "HTML", "CSS", "C++", "SQL"],
+      tools:["Git"]
       askMeAbout: ["web dev", "tech", "app dev", "cars ¯\_(ツ)_/¯", "algorithms"],
       technologies: {
           backEnd: {
-              js: ["Node", "Express"],
+              js: ["NodeJS", "NestJS", "Express"],
           },
+          frontEnd: ["React", "Redux", "Vite"],
           databases: ["MySql"],
+          ORM: ["Prisma"]
       },
       currentFocus: "Buy an M5",
       funFact: "If you are solving a problem using regular expressions (RegExp), now instead of one problem you have two :)"
