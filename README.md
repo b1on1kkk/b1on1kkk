@@ -12,7 +12,7 @@
 ```javascript
   const b1on1kkk = {
       languages: ["Javascript", "Typescript", "HTML", "CSS", "C++", "SQL"],
-      tools:["Git"]
+      tools:["Git"],
       askMeAbout: ["web dev", "tech", "app dev", "cars ¯\_(ツ)_/¯", "algorithms"],
       technologies: {
           backEnd: {
