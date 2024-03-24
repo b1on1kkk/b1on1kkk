@@ -21,4 +21,4 @@
   };
 ```
 
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,sass,bootstrap,ts,js,cpp,nodejs,express,nestjs,mysql,prisma,jest,docker,babel,figma,npm,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,sass,bootstrap,ts,js,cpp,nodejs,express,nestjs,mysql,prisma,nginx,jest,docker,babel,figma,npm,html,css)](https://skillicons.dev)
