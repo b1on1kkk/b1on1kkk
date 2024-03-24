@@ -6,15 +6,15 @@
 ```javascript
   const b1on1kkk = {
       languages: ["Javascript", "Typescript", "HTML", "CSS", "C++", "SQL"],
-      tools: ["Git"],
-      askMeAbout: ["web dev", "tech", "app dev", "cars ¯\_(ツ)_/¯", "algorithms"],
+      tools: ["Git, Docker, Jest"],
+      askMeAbout: ["web dev", "tech", "app dev", "cars ¯\_(ツ)_/¯", "algorithms", "tech books"],
       technologies: {
           backEnd: {
-              js: ["NodeJS", "NestJS", "Express"],
+              js_ts: ["NodeJS", "Nest JS", "Express"],
           },
-          frontEnd: ["React", "Redux", "Vite"],
+          frontEnd: ["React", "Redux", "Vite", "Next JS"],
           databases: ["MySql"],
-          ORM: ["Prisma"]
+          ORM: ["Prisma"],
       },
       currentFocus: "Buy an M5",
       funFact: "If you are solving a problem using regular expressions (RegExp), now instead of one problem you have two :)"
